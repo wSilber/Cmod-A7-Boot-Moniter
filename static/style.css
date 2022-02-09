@@ -1,0 +1,46 @@
+body {
+    background-color: #121212;
+}
+
+.black {
+    background-color: #000000 !important;
+}
+
+.background-dark {
+    background-color: #121212 !important;
+}
+
+.background-light {
+    background-color: #1e1e1e !important;
+}
+
+.text-light {
+    color: #dedede !important;
+}
+
+.text-dark {
+    color: #4b4b4b !important;
+}
+
+.text-main {
+    color: #2196f3 !important;
+}
+
+.blue-background {
+    background-color: #2196f3 !important;
+}
+
+.box-shadow {
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+    -ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+    zoom: 1;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.main-containers {
+    height: 40vh;
+}
